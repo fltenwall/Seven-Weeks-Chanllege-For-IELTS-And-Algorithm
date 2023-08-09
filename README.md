@@ -105,6 +105,8 @@
 算法：
 
 1. 两道算法题🌘
+   
+   完成了 [394. 字符串解码](https://leetcode.cn/problems/decode-string/description/?envType=study-plan-v2&envId=top-100-liked)
 
 看了《JavaScript 算法 基本原理与代码实现》栈的内容
 
